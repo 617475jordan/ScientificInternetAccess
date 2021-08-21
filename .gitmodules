@@ -1,0 +1,18 @@
+[submodule "free"]
+	path = free
+	url = https://github.com/freefq/free.git
+[submodule "fanqiang"]
+	path = fanqiang
+	url = https://github.com/Helpsoftware/fanqiang.git
+[submodule "node.umelabs.dev"]
+	path = node.umelabs.dev
+	url = https://github.com/UmeLabs/node.umelabs.dev.git
+[submodule "overthefirewall"]
+	path = overthefirewall
+	url = https://github.com/ZGQ-inc/overthefirewall.git
+[submodule "free-v2ray"]
+	path = free-v2ray
+	url = https://github.com/iwxf/free-v2ray.git
+[submodule "v2ray-nodes"]
+	path = v2ray-nodes
+	url = https://github.com/colatiger/v2ray-nodes.git
